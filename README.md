@@ -1,5 +1,8 @@
 # Tombala-Game
 
+![Screenshot 2025-01-26 233826](https://github.com/user-attachments/assets/2836c10e-dbd6-45ff-b032-d90d9fb45e86)
+
+
 ![Screenshot 2025-01-26 233852](https://github.com/user-attachments/assets/38c1caba-df15-4e9e-9354-507d1850180c)
 
 ![Screenshot 2025-01-26 233906](https://github.com/user-attachments/assets/d63d39c6-2121-422c-ace4-daeece6ab74b)
